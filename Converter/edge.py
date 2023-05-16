@@ -3,7 +3,7 @@ import cv2
 from PIL import Image, ImageFilter
 # 定数定義
 maisuu=0
-filedir="images"
+filedir = "images"
 print("#####################################")
 try:
   for i in range(100000):
